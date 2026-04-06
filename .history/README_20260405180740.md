@@ -1,0 +1,13 @@
+<h1>Loki</h1>
+<h3><b>Simple image editor using Odin and stb vendor library.</b></h3>
+
+<p>This is very much a work in progress. I am working on adding more functionality: 
+<ul><li>Resizing/Croping</li>
+<li>Coverting to different image formats</li>
+<li>Choice of adjusting all 3 or channels (RGB) (RGBA)</li>
+<li>Ability to input the value of the channel(s) you wish to change</li>
+<li><b>Add UI</b></li>
+</ul>
+
+I hope to use Karl2d or Raylib vendor libraries to implement the UI
+</p>
